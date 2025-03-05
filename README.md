@@ -2,7 +2,7 @@
 	<img src="winlatorwb64" width="376" height="128" alt="Winlator WB64" />  
 </p>
 
-# Winlator
+# Winlator WB64 PRoot-Glibc
 
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
