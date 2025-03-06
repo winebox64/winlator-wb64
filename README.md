@@ -2,13 +2,13 @@
 	<img src="winlatorwb64" width="376" height="128" alt="Winlator WB64" />  
 </p>
 
-# Winlator WB64
+# Winlator WB64 (PRoot & Glibc)
 
 Winlator WB64 is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
 ----
 
-# Installation PRoot - Glibc
+# Installation
 
 1. Download and install the APK from GitHub Releases [![winlator winebox64 apk](https://img.shields.io/badge/%20Download%20-wb64?style=for-the-badge-plastic&logo=Androids&logoColor=green&logoSize=14&label=%20&labelColor=golden&color=66BA32)](https://github.com/winebox64/winlator/releases)
 2. Launch the app and wait for the installation process to finish
