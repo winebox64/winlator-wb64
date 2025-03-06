@@ -25,7 +25,7 @@ Winlator WB64 is an Android application that lets you to run Windows (x86_64) ap
 - __Root Access:__ Not required
 - __Gamepad:__ Optional (xinput/xbox recommended)
 
-__Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, different processor capabilities, and other variables.__
+__Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.__
 
 ----
 
