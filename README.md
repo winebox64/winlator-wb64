@@ -45,12 +45,19 @@ __Results can vary based on the device used, environmental conditions, and other
 The Vortek driver is for processors that are incompatible with the Turnip (Adreno) driver.
 
 [![Qualcomm](https://img.shields.io/badge/Snapdragon%208%20Elite-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
+
 [![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
+
 [![Qualcomm](https://img.shields.io/badge/Snapdragon%207%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
+
 [![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%202-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
+
 [![Qualcomm](https://img.shields.io/badge/Snapdragon%206%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
+
 [![Qualcomm](https://img.shields.io/badge/Snapdragon%206%20Gen%201-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
+
 [![Qualcomm](https://img.shields.io/badge/Snapdragon%20860-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
+
 [![Qualcomm](https://img.shields.io/badge/Snapdragon%20735-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
 ----
