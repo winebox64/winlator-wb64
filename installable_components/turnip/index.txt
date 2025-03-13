@@ -1,2 +1,1 @@
-is unavailable in this beta glibc, not all games work!
-in this beta with glibc is unstable
+is unavailable in this beta glibc, unstable and many games won't work
