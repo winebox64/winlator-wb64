@@ -1,1 +1,1 @@
-is unavailable in this beta glibc
+is unavailable in this beta glibc, not all games work!
