@@ -1,4 +1,4 @@
-box64-0.3.5-(custom).tzst
+box64-0.3.5 (Stay tuned for updates).tzst
 box64-0.3.4.tzst
 box64-0.3.3.tzst
 box64-0.3.2.tzst
