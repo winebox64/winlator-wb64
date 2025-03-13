@@ -1,6 +1,1 @@
- winlator beta glibc cannot change
-turbip-25.1.0.tzst
-turnip-25.0.0.tzst
-turnip-24.3.0.tzst
-turbip-24.2.0.tzst
-turnip-24.1.0.tzstx
+Winlator beta glibc cannot change
