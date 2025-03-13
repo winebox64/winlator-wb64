@@ -1,1 +1,2 @@
 is unavailable in this beta glibc, not all games work!
+in this beta with glibc is unstable
