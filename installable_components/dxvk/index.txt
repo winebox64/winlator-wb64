@@ -1,6 +1,4 @@
-info: v2.5.3.98 focus on low latency (slightly lower fps)
 dxvk-2.6.tzst
-dxvk-2.5.3.98.tzst
 dxvk-2.5.2.tzst
 dxvk-2.3.1.tzst
 dxvk-1.7.2.tzst
