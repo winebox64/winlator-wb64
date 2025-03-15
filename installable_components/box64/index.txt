@@ -1,3 +1,4 @@
+info: if the game not work, try another version with new container
 box64-0.3.5 (Stay tuned for updates).tzst
 box64-0.3.4.tzst
 box64-0.3.3.tzst
