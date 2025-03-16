@@ -1,3 +1,5 @@
+info: stay tune for more update
+dxvk-2.6.1.tzst
 dxvk-2.6.tzst
 dxvk-2.5.3.98.tzst
 dxvk-2.5.2.tzst
