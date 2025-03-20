@@ -1,10 +1,18 @@
 info: stay tune for update
-dxvk-2.6.13.tzst
 dxvk-2.6.1.tzst
 dxvk-2.6.tzst
 dxvk-2.5.3.94.tzst
+dxvk-2.5.3.1.tzst
 dxvk-2.5.2.tzst
+dxvk-2.5.1.tzst
+dxvk-2.4.24.tzst
+dxvk-2.4.1.tzst
+dxvk-2.4.tzst
 dxvk-2.3.1.tzst
+dxvk-2.2.tzst
+dxvk-1.7.3.tzst
 dxvk-1.7.2.tzst
+dxvk-1.5.5.tzst
 dxvk-1.4.2.tzst
 dxvk-0.96.tzst
+dxvk-0.59.tzst
